@@ -1,4 +1,4 @@
-# CS140Assignments_fall2016
+# CS140 Assignments (fall 2016)
 
 Used for upload homework requirements for CS140 Algorithms class.
 
