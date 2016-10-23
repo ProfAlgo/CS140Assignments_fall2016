@@ -9,8 +9,11 @@ One folder (named HomeworkX) for each homework. Each homework may contain a deta
 For example:
 - HomeworkX
 -- HWX.pdf              ``` \\ Detail description of each question ```
+
 -- README.md            ``` \\ Basic instructions for coding exercise and API spec ```
+
 -- Starting codes       ``` \\ API spec ```
+
 
 ## Basic Usage
 
