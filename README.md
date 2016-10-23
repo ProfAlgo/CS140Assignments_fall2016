@@ -7,12 +7,12 @@ Used for upload homework requirements for CS140 Algorithms class.
 One folder (named HomeworkX) for each homework. Each homework may contain a detail description for hand-writing questions, a README file for basic coding instructions and starting code for each coding exercise.
 
 For example:
-- HomeworkX
--- HWX.pdf              ``` \\ Detail description of each question ```
+-- HomeworkX
+--- HWX.pdf                       ``` \\ Detail description of each question ```
 
--- README.md            ``` \\ Basic instructions for coding exercise and API spec ```
+--- README.md                     ``` \\ Basic instructions for coding exercise and API spec ```
 
--- Starting codes       ``` \\ API spec ```
+--- Starting codes                ``` \\ API spec ```
 
 
 ## Basic Usage
