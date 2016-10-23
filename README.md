@@ -16,7 +16,7 @@ For example:
 
 You can create your own branch on the repo to finish your homework. 
 
-For coding exercise, please send your code to [algorithms_fall2016@outlook.com](mailto:algorithms_fall2016@outlook.com) with subject **CS140HW*X_YourStudentID_YourName***.
+For coding exercise, please send your code to [algorithms_fall2016@outlook.com](mailto:algorithms_fall2016@outlook.com) with subject CS140HW***X_YourStudentID_YourName***
 
 For hand-writing questions please 
 
